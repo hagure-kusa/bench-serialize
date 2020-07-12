@@ -1,6 +1,7 @@
 Rustで使えるバイナリシリアライザのパフォーマンス計測
 
-##使い方
+## 使い方
+
 ```
 $ cargo run --release
 with serde_bytes:
